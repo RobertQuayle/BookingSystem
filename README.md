@@ -6,7 +6,7 @@
 
 <h2 align="left">About this project:</h2>
 
-- **This repository holds the source code for a Hotel Booking system I created while at university to test parsing data. It's written in Java.**
+- **This repository holds the source code for a Hotel Booking system I created while at university to test parsing and manipulating data. It's written in Java.**
 
 
 <h2 align="left">About me:</h2>
